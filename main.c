@@ -1,3 +1,4 @@
+Creating pascal triangle in C language
 #include<stdio.h>
 #include<conio.h>
 int hesap(int sayi){
