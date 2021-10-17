@@ -1,0 +1,2 @@
+# C-factorial
+Factorial calculation
